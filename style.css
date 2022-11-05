@@ -1,0 +1,34 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: blue;
+}
+
+#about {
+  background-color: hsl(170, 100%, 40%);
+}
+
+#Project {
+  background-color: hsl(170, 100%, 40%);
+  padding-top: 60px;
+}
+#contact {
+  background-color: hsl(170, 100%, 40%);
+  padding-top: 50px;
+}
+
+.footer {
+  background-color: blue;
+}
+
+.text-create {
+  color: white;
+  font-size: smaller;
+}
+.link-href {
+  color: white;
+  text-decoration-line: none;
+}
+
+section {
+  padding-top: 4rem;
+}
